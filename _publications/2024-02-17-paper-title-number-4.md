@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "RDGCN: Reasonably dense graph convolution network for pedestrian trajectory prediction"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
