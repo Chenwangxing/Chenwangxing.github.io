@@ -40,20 +40,20 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8716-7070"
   semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Wangxing-Chen/research"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Chenwangxing"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -82,8 +82,14 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  manuscripts: DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction
+    title: 'IEEE Transactions on Intelligent Transportation Systems'
+  manuscripts: PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction
+    title: 'IEEE Internet of Things Journal'    
+  manuscripts: DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction
+    title: 'Information Sciences'    
+  manuscripts: RDGCN: Reasonably dense graph convolution network for pedestrian trajectory prediction
+    title: 'Measurement'    
   conferences:
     title: 'Conference Papers'
 
