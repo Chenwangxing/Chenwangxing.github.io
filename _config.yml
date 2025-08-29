@@ -80,15 +80,19 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  # books:
-  #   title: 'Books'
+  books:
+    title: 'Books'
+
   manuscripts: 
-    title: 'Chen W, Sang H, Wang J, et al. DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025.'
-  manuscripts: 
-    title: 'Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025.'
-  manuscripts: 
-    title: 'Chen W, Sang H, Wang J, et al. DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction[J]. Information Sciences, 2024, 666: 120455.'
-    # title: ''
+    title: 'Manuscripts'
+  
+  # manuscripts: 
+  #   title: 'Chen W, Sang H, Wang J, et al. DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025.'
+  # manuscripts: 
+  #   title: 'Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025.'
+  # manuscripts: 
+  #   title: 'Chen W, Sang H, Wang J, et al. DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction[J]. Information Sciences, 2024, 666: 120455.'
+  #   # title: ''
     # title: ''
     # title: ''
     # title: ''
@@ -111,8 +115,8 @@ publication_category:
   #   title: 'Information Sciences'    
   # manuscripts: RDGCN: Reasonably dense graph convolution network for pedestrian trajectory prediction
   #   title: 'Measurement'    
-  # conferences:
-  #   title: 'Conference Papers'
+  conferences:
+    title: 'Conference Papers'
 
 
 # Honors & Awards - The following the list of publication categories and their headings
@@ -139,8 +143,8 @@ Honors & Awards:
   #   title: ''
   # manuscripts: 
   #   title: 'Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025.'
-  # manuscripts: 
-  #   title: 'Chen W, Sang H, Wang J, et al. DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction[J]. Information Sciences, 2024, 666: 120455.'
+  # # manuscripts: 
+  # #   title: 'Chen W, Sang H, Wang J, et al. DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction[J]. Information Sciences, 2024, 666: 120455.'
     # title: ''
     # title: ''
     # title: ''
