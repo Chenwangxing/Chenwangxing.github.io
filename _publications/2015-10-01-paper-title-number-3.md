@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "DSTCNN: Deformable spatial-temporal convolutional neural network for pedestrian trajectory prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
